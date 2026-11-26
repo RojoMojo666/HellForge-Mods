@@ -11,6 +11,7 @@ Pick the individual preset for the weapon you want to change. Penetration is lis
 | <a href="https://github.com/RojoMojo666/HellForge-Mods/blob/main/artwork/ar-32-cover.jpg"><img src="https://raw.githubusercontent.com/RojoMojo666/HellForge-Mods/main/artwork/ar-32-thumbnail.png" width="72" height="72" alt="AR-32 Pacifier cover"></a> | AR-32 Pacifier | Gives it a 55-round magazine, 775 RPM automatic fire, a 1,200 RPM two-round burst, and 130 standard / 65 durable damage. | [ZIP](https://github.com/RojoMojo666/HellForge-Mods/raw/refs/heads/main/downloads/AR-32-Pacifier-HellForge-v1.0.0-build25480438.zip) |
 | <a href="https://github.com/RojoMojo666/HellForge-Mods/blob/main/artwork/smg-32-cover.jpg"><img src="https://raw.githubusercontent.com/RojoMojo666/HellForge-Mods/main/artwork/smg-32-thumbnail.png" width="72" height="72" alt="SMG-32 Reprimand cover"></a> | SMG-32 Reprimand | Gives it a 50-round magazine, 800 RPM automatic fire, a 1,300 RPM three-round burst, and AP 4/4/3/1. | [ZIP](https://github.com/RojoMojo666/HellForge-Mods/raw/refs/heads/main/downloads/SMG-32-Reprimand-HellForge-v1.0.0-build25480438.zip) |
 | <a href="https://github.com/RojoMojo666/HellForge-Mods/blob/main/artwork/talon-cover.jpg"><img src="https://raw.githubusercontent.com/RojoMojo666/HellForge-Mods/main/artwork/talon-thumbnail.png" width="72" height="72" alt="LAS-58 Talon Impact Blast cover"></a> | LAS-58 Talon Impact Blast | Fires the regular bolts immediately, adds a 1.5 m impact blast, and doubles heat capacity to 200. | [ZIP](https://github.com/RojoMojo666/HellForge-Mods/raw/refs/heads/main/downloads/LAS-58-Talon-Impact-Blast-Per-Player-1.1.0-HellForge-build25480438.zip) |
+|  | [P-92 Warrant — Per Player](warrant/README.md) | 12-round magazine, 140 standard / 60 durable damage, AP 4/4/3/1, and native lock-on. | [ZIP](https://github.com/RojoMojo666/HellForge-Mods/raw/refs/heads/main/downloads/P-92-Warrant-Per-Player-v1.0.0-build25480438.zip) |
 
 ## Testing builds
 
@@ -18,7 +19,6 @@ Pick the individual preset for the weapon you want to change. Penetration is lis
 | --- | --- |
 | P-44 Mist | 40 rounds, 600 RPM auto, and a 900 RPM three-round burst. Requires the Scope of Authority backport. |
 | Double Nova | Tunes the fire rate to 60 RPM and cooling to a two-second delay. Requires the Scope of Authority backport. |
-| [P-92L Warrant 12/12](warrant/README.md) | Switch between separate 12-round Standard and Mini-WASP feeds. The Mini-WASP has a compact impact blast and solo-only guidance. [Download the 0.2.1 test ZIP](https://github.com/RojoMojo666/HellForge-Mods/raw/refs/heads/main/downloads/P-92-Warrant-12x2-Mini-WASP-Round-Test-v0.2.1-build25480438.zip) |
 
 The testing builds still need gameplay validation on HellForge 0.5.
 

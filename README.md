@@ -13,7 +13,7 @@ Standalone mods for HellForge. Pick the ones you want. This catalog covers HellF
 
 ## [Weapon mods](weapons/README.md)
 
-JAR-5 Dominator Bolt Blast, MG-206 Realistic, R-72 Censor, AR-32 Pacifier, SMG-32 Reprimand, LAS-58 Talon Impact Blast, and DEA(c)DLINE. The weapon page also lists the Mist, Double Nova, and Warrant test builds.
+JAR-5 Dominator Bolt Blast, MG-206 Realistic, R-72 Censor, AR-32 Pacifier, SMG-32 Reprimand, LAS-58 Talon Impact Blast, P-92 Warrant, and DEA(c)DLINE. The weapon page also lists the Mist and Double Nova test builds.
 
 ## Loader requirements
 
