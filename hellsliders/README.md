@@ -14,6 +14,8 @@ Oxygenator is available in the regular preset list in **2.2.1**. You can select 
 
 Open **Esc → Mods → HELLSLIDERS**, pick a preset or adjust the sliders, then select **Apply**. Some changes need a fresh spawn.
 
-Requires Bingus Shared Loader and Mod Options Menu.
+## Requirements
+
+Enable [Bingus Shared Loader v20](https://github.com/CowboyBingus/BingusSharedLoader/releases/tag/v20) and [Mod Options Menu v1.0.1](https://github.com/CowboyBingus/ModOptionsMenu/releases/tag/v1.0.1) in HellForge.
 
 [Back to HellForge Mods](../README.md)

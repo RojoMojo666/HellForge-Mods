@@ -12,6 +12,8 @@ Open **Esc → Mods → Fire & Fall Controls**, choose both settings, and select
 
 Hard landings can still concuss you with fall damage turned off.
 
-**HellForge build 1.4.0.** Requires Bingus Shared Loader and Mod Options Menu.
+## Requirements
+
+Enable [Bingus Shared Loader v20](https://github.com/CowboyBingus/BingusSharedLoader/releases/tag/v20) and [Mod Options Menu v1.0.1](https://github.com/CowboyBingus/ModOptionsMenu/releases/tag/v1.0.1) in HellForge. Keep the HellForge Editor enabled to load the Lua bridge.
 
 [Back to HellForge Mods](../README.md)

@@ -18,7 +18,7 @@ Pick the individual preset for the weapon you want to change. Penetration is lis
 | --- | --- |
 | P-44 Mist | 40 rounds, 600 RPM auto, and a 900 RPM three-round burst. Requires the Scope of Authority backport. |
 | Double Nova | Tunes the fire rate to 60 RPM and cooling to a two-second delay. Requires the Scope of Authority backport. |
-| P-92L Warrant | A two-feed prototype with 12 rounds per feed. Switch between standard rounds and guided mini-WASP rounds. Guidance has only been configured for solo play. |
+| [P-92L Warrant 12/12](warrant/README.md) | Switch between separate 12-round Standard and Mini-WASP feeds. The Mini-WASP has a compact impact blast and solo-only guidance. [Download the 0.2.1 test ZIP](https://github.com/RojoMojo666/HellForge-Mods/raw/refs/heads/main/downloads/P-92-Warrant-12x2-Mini-WASP-Round-Test-v0.2.1-build25480438.zip) |
 
 The testing builds still need gameplay validation on HellForge 0.5.
 
