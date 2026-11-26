@@ -1,5 +1,7 @@
 # JAR-5 Dominator Bolt Blast
 
+![JAR-5 Dominator Bolt Blast HellForge cover](../../artwork/jar-5-cover.jpg)
+
 [Download 0.2.2 for HellForge](https://github.com/RojoMojo666/HellForge-Mods/raw/refs/heads/main/downloads/JAR-5-Dominator-Bolt-Blast-Per-Player-v0.2.2-HellForge-build25480438.zip)
 
 The Dominator fires explosive rounds using the Bolt Pistol's impact blast and a **30-round drum**. The game can also retain a round in the chamber through a reload.

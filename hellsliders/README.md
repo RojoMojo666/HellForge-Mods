@@ -4,7 +4,7 @@
 
 Slide farther, tune how quickly you pick up speed, and set how long slides last on flat ground, uphill, and downhill. Pick a preset or dial in the controls yourself.
 
-![HELLSLIDERS Tribes cover art](https://github.com/RojoMojo666/mods/releases/download/slidedivers-tribes-v1.0-build26251122/HELLSLIDERS-Tribes-cover.png)
+![HELLSLIDERS HellForge cover](../artwork/hellsliders-cover.jpg)
 
 ## Presets
 

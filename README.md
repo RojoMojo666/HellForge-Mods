@@ -4,12 +4,12 @@ Standalone mods for HellForge. Pick the ones you want. This catalog covers HellF
 
 ## Main mods
 
-| Mod | What it does |
-| --- | --- |
-| [Fire & Fall Controls](fire-and-fall/README.md) | Set fire and fall damage protection independently from Off to 100%. |
-| [HELLSLIDERS](hellsliders/README.md) | Adjustable crouch sliding with presets for slide speed, duration, and slopes. |
-| [DEA(c)DLINE](weapons/deadline/README.md) | Overcharge protection for Railgun and Epoch, plus a compact impact blast for the Railgun. |
-| First Person View | Upcoming first-person camera mod with a minimal editable HUD, toggleable throw guides, and an F6 switch back to third person. |
+| Cover | Mod | What it does |
+| --- | --- | --- |
+| <a href="https://github.com/RojoMojo666/HellForge-Mods/blob/main/artwork/fire-and-fall-cover.jpg"><img src="https://raw.githubusercontent.com/RojoMojo666/HellForge-Mods/main/artwork/fire-and-fall-thumbnail.png" width="72" height="72" alt="Fire & Fall Controls cover"></a> | [Fire & Fall Controls](fire-and-fall/README.md) | Set fire and fall damage protection independently from Off to 100%. |
+| <a href="https://github.com/RojoMojo666/HellForge-Mods/blob/main/artwork/hellsliders-cover.jpg"><img src="https://raw.githubusercontent.com/RojoMojo666/HellForge-Mods/main/artwork/hellsliders-thumbnail.png" width="72" height="72" alt="HELLSLIDERS cover"></a> | [HELLSLIDERS](hellsliders/README.md) | Adjustable crouch sliding with presets for slide speed, duration, and slopes. |
+| <a href="https://github.com/RojoMojo666/HellForge-Mods/blob/main/artwork/deadline-cover.jpg"><img src="https://raw.githubusercontent.com/RojoMojo666/HellForge-Mods/main/artwork/deadline-thumbnail.png" width="72" height="72" alt="DEA(c)DLINE cover"></a> | [DEA(c)DLINE](weapons/deadline/README.md) | Overcharge protection for Railgun and Epoch, plus a compact impact blast for the Railgun. |
+|  | First Person View | Upcoming first-person camera mod with a minimal editable HUD, toggleable throw guides, and an F6 switch back to third person. |
 
 ## [Weapon mods](weapons/README.md)
 

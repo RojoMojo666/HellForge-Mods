@@ -4,7 +4,7 @@
 
 Set your own fire and fall damage protection in the game menu. Both settings have **Off**, **25%**, **50%**, **75%**, and **100%** options. The two settings are independent, so you can have full fall protection and keep fire dangerous.
 
-![Fire & Fall cover art](https://github.com/RojoMojo666/mods/releases/download/fire-and-fall-v1.1-build26251122/Fire-and-Fall-cover.png)
+![Fire & Fall Controls HellForge cover](../artwork/fire-and-fall-cover.jpg)
 
 ## In game
 

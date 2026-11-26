@@ -1,5 +1,7 @@
 # DEA(c)DLINE
 
+![DEA(c)DLINE HellForge cover](../../artwork/deadline-cover.jpg)
+
 [Download 1.3.0 for HellForge](https://github.com/RojoMojo666/HellForge-Mods/raw/refs/heads/main/downloads/DEADLINE-Railgun-Stock-Blast-Per-Player-v1.3.0-build25480438.zip)
 
 Overcharge protection for the **RS-422 Railgun** and **PLAS-45 Epoch**. Charge the weapon as usual and release the trigger when you want to fire.
